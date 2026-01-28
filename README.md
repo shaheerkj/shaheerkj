@@ -24,7 +24,9 @@ I'm a Final Year Cyber Security student and developer specializing in cloud secu
   <img src="https://skillicons.dev/icons?i=azure,aws,jenkins,java,go,py,linux,mysql,git,github,terraform,kubernetes,docker" />
 </p>
 
-## 📫 Contact Me
+## 📫 Socials:
 - Email: shaheerkhalid963@gmail.com  
 - LinkedIn: https://linkedin.com/in/shaheerkj
+- Medium: https://medium.com/@shaheerkj
+- Dev.to: dev.to/shaheerkj
 - Portfolio: https://bento.me/shaheerkj
