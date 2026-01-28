@@ -28,5 +28,5 @@ I'm a Final Year Cyber Security student and developer specializing in cloud secu
 - Email: shaheerkhalid963@gmail.com  
 - LinkedIn: https://linkedin.com/in/shaheerkj
 - Medium: https://medium.com/@shaheerkj
-- Dev.to: dev.to/shaheerkj
+- Dev.to: http://dev.to/shaheerkj
 - Portfolio: https://bento.me/shaheerkj
