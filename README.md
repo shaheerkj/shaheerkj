@@ -1,9 +1,11 @@
-# Hi there, I'm Shaheer 👋
+# Hi there, I'm Shaheer
 
-## 🔐 About Me
+## About Me
+
 I'm a Final Year Cyber Security student and developer specializing in cloud security, backend engineering, and scalable architectures. I combine security principles with modern development practices to build reliable, secure, and high-performing systems.
 
-### 🛡️ Experience & Skills
+### Experience & Skills
+
 - **Cloud Security** – Azure Entra ID, Defender for Cloud, IAM policies, conditional access  
 - **Cloud Architecture** – App Service, Front Door, App Gateway, Key Vault, VPN, VNet integration  
 - **Infrastructure as Code** – Terraform for provisioning secure, scalable Azure resources  
@@ -13,20 +15,23 @@ I'm a Final Year Cyber Security student and developer specializing in cloud secu
 - **Systems Programming** – Go, Java, Python  
 - **Currently Exploring** – Cloud Security Engineering, DevSecOps, secure cloud architectures  
 
-## 🎯 Current Focus
+## Current Focus
+
 - Designing secure & scalable cloud architectures  
 - Advancing backend development in Go  
 - Working on real-world cloud + security projects  
 - Completing my Final Year Project  
 
-## 🛠️ Tools & Languages
+## Tools & Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=azure,aws,jenkins,java,go,py,linux,mysql,git,github,terraform,kubernetes,docker" />
 </p>
 
 ## 📫 Socials:
+
 - Email: shaheerkhalid963@gmail.com  
 - LinkedIn: https://linkedin.com/in/shaheerkj
 - Medium: https://medium.com/@shaheerkj
 - Dev.to: http://dev.to/shaheerkj
-- Portfolio: https://bento.me/shaheerkj
+- Portfolio: https://shaheerkj.me
